@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/StreamVibe/static/css/main.fe0c0c84.css",
-    "main.js": "/StreamVibe/static/js/main.922d11f6.js",
+    "main.css": "/StreamVibe/static/css/main.6d0ffcf8.css",
+    "main.js": "/StreamVibe/static/js/main.cd5c40a4.js",
     "static/js/453.9d6f36da.chunk.js": "/StreamVibe/static/js/453.9d6f36da.chunk.js",
     "static/media/horror1.jpg": "/StreamVibe/static/media/horror1.37d04deecc7d3b465dd1.jpg",
     "static/media/hank.jpg": "/StreamVibe/static/media/hank.2365e56f423454f71e5a.jpg",
@@ -68,12 +68,12 @@
     "static/media/left-arrow-icon.svg": "/StreamVibe/static/media/left-arrow-icon.da1acfc88397d79ff585cdcdeb99c98a.svg",
     "static/media/right-arrow-icon.svg": "/StreamVibe/static/media/right-arrow-icon.f7ac8090b54d5d1cabc86d65c87e4047.svg",
     "static/media/plusWhite.svg": "/StreamVibe/static/media/plusWhite.d186dc7692f66f61f66b3f07a992954b.svg",
-    "main.fe0c0c84.css.map": "/StreamVibe/static/css/main.fe0c0c84.css.map",
-    "main.922d11f6.js.map": "/StreamVibe/static/js/main.922d11f6.js.map",
+    "main.6d0ffcf8.css.map": "/StreamVibe/static/css/main.6d0ffcf8.css.map",
+    "main.cd5c40a4.js.map": "/StreamVibe/static/js/main.cd5c40a4.js.map",
     "453.9d6f36da.chunk.js.map": "/StreamVibe/static/js/453.9d6f36da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe0c0c84.css",
-    "static/js/main.922d11f6.js"
+    "static/css/main.6d0ffcf8.css",
+    "static/js/main.cd5c40a4.js"
   ]
 }
