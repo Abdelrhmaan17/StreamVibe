@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/StreamVibe/static/css/main.be0594e0.css",
-    "main.js": "/StreamVibe/static/js/main.d88f1870.js",
+    "main.css": "/StreamVibe/static/css/main.f2eb3592.css",
+    "main.js": "/StreamVibe/static/js/main.f30f3e7c.js",
     "static/js/453.9d6f36da.chunk.js": "/StreamVibe/static/js/453.9d6f36da.chunk.js",
     "static/media/horror1.jpg": "/StreamVibe/static/media/horror1.37d04deecc7d3b465dd1.jpg",
     "static/media/hank.jpg": "/StreamVibe/static/media/hank.2365e56f423454f71e5a.jpg",
@@ -12,11 +12,12 @@
     "static/media/film6.jpg": "/StreamVibe/static/media/film6.d39e32a2cfb4672feb8a.jpg",
     "static/media/film15.jpg": "/StreamVibe/static/media/film15.9371509354ed92684e2d.jpg",
     "static/media/film8.jpg": "/StreamVibe/static/media/film8.87c758937f98b252c125.jpg",
+    "static/media/lost.jpg": "/StreamVibe/static/media/lost.349ab4de84d4aa939206.jpg",
     "static/media/vinceDirector.jpg": "/StreamVibe/static/media/vinceDirector.a96614687dbba9132470.jpg",
     "static/media/film5.jpg": "/StreamVibe/static/media/film5.81c41898f2cc721f49b8.jpg",
+    "static/media/film7.jpg": "/StreamVibe/static/media/film7.23de362bef081902557d.jpg",
     "static/media/film1.jpg": "/StreamVibe/static/media/film1.f1a2e26bc18754df3864.jpg",
     "static/media/adv3.jpg": "/StreamVibe/static/media/adv3.b52aa0a9258f7ac76801.jpg",
-    "static/media/film7.jpg": "/StreamVibe/static/media/film7.a3df4c71fe4ad42f9848.jpg",
     "static/media/adv1.jpg": "/StreamVibe/static/media/adv1.a6b7367e7ffc10ac7c06.jpg",
     "static/media/horror4.jpg": "/StreamVibe/static/media/horror4.aa448aaf5f237d6a43ed.jpg",
     "static/media/film12.jpg": "/StreamVibe/static/media/film12.40e21d8c6e080dbdb3f7.jpg",
@@ -25,12 +26,13 @@
     "static/media/adv2.jpg": "/StreamVibe/static/media/adv2.2de0928e8f7182554ec1.jpg",
     "static/media/film9.jpg": "/StreamVibe/static/media/film9.cc3c875ca436510d0566.jpg",
     "static/media/adv4.webp": "/StreamVibe/static/media/adv4.df291bc4122bd7c01951.webp",
+    "static/media/room2.jpg": "/StreamVibe/static/media/room2.5ccfab29eac88f527703.jpg",
     "static/media/horror3.jpg": "/StreamVibe/static/media/horror3.ef0fa07c0ec97eb30204.jpg",
+    "static/media/film2.jpeg": "/StreamVibe/static/media/film2.b574711e21a65f02d149.jpeg",
     "static/media/film18.jpg": "/StreamVibe/static/media/film18.94a690ca3b98423b04f6.jpg",
     "static/media/sifi2.jpg": "/StreamVibe/static/media/sifi2.33c57b7c805b5b044fd0.jpg",
     "static/media/film11.jpg": "/StreamVibe/static/media/film11.b10b6a203cddaa51a06f.jpg",
     "static/media/saul.jpg": "/StreamVibe/static/media/saul.4ac16d28800351e28aa1.jpg",
-    "static/media/film2.jpg": "/StreamVibe/static/media/film2.47b2e3b23024ab17813e.jpg",
     "static/media/sifi1.jpg": "/StreamVibe/static/media/sifi1.744780806afabaa44593.jpg",
     "static/media/walterWhite.jpg": "/StreamVibe/static/media/walterWhite.238cca2428147eb06efa.jpg",
     "static/media/jessy.jpg": "/StreamVibe/static/media/jessy.3ee71feefe42d8c828dc.jpg",
@@ -68,12 +70,12 @@
     "static/media/left-arrow-icon.svg": "/StreamVibe/static/media/left-arrow-icon.da1acfc88397d79ff585cdcdeb99c98a.svg",
     "static/media/right-arrow-icon.svg": "/StreamVibe/static/media/right-arrow-icon.f7ac8090b54d5d1cabc86d65c87e4047.svg",
     "static/media/plusWhite.svg": "/StreamVibe/static/media/plusWhite.d186dc7692f66f61f66b3f07a992954b.svg",
-    "main.be0594e0.css.map": "/StreamVibe/static/css/main.be0594e0.css.map",
-    "main.d88f1870.js.map": "/StreamVibe/static/js/main.d88f1870.js.map",
+    "main.f2eb3592.css.map": "/StreamVibe/static/css/main.f2eb3592.css.map",
+    "main.f30f3e7c.js.map": "/StreamVibe/static/js/main.f30f3e7c.js.map",
     "453.9d6f36da.chunk.js.map": "/StreamVibe/static/js/453.9d6f36da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be0594e0.css",
-    "static/js/main.d88f1870.js"
+    "static/css/main.f2eb3592.css",
+    "static/js/main.f30f3e7c.js"
   ]
 }
