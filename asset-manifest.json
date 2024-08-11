@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/StreamVibe/static/css/main.f2eb3592.css",
-    "main.js": "/StreamVibe/static/js/main.f30f3e7c.js",
+    "main.css": "/StreamVibe/static/css/main.b4185799.css",
+    "main.js": "/StreamVibe/static/js/main.32a6cbd0.js",
     "static/js/453.9d6f36da.chunk.js": "/StreamVibe/static/js/453.9d6f36da.chunk.js",
     "static/media/horror1.jpg": "/StreamVibe/static/media/horror1.37d04deecc7d3b465dd1.jpg",
     "static/media/hank.jpg": "/StreamVibe/static/media/hank.2365e56f423454f71e5a.jpg",
@@ -61,7 +61,7 @@
     "static/media/languagesIcon.svg": "/StreamVibe/static/media/languagesIcon.25ad8a65c3bcfd0ee6061361a1b5ead4.svg",
     "static/media/clockIcon.svg": "/StreamVibe/static/media/clockIcon.dbce2581f7b95b49c87ef646c81b1a24.svg",
     "static/media/dateIcon.svg": "/StreamVibe/static/media/dateIcon.f1bb8ff1ed2aebfece51279a2430215d.svg",
-    "static/media/minus-icon.svg": "/StreamVibe/static/media/minus-icon.d929d4b326f77fdc8c5ada75fcaf2006.svg",
+    "static/media/minus-icon.svg": "/StreamVibe/static/media/minus-icon.671c3ae01784eb629332808cb7826f94.svg",
     "static/media/dropdownIcon.svg": "/StreamVibe/static/media/dropdownIcon.e3990e70c55f12d4bfa13796008e0448.svg",
     "static/media/search-icon.svg": "/StreamVibe/static/media/search-icon.561ac9997f919930f4055096de0958ef.svg",
     "static/media/starIcon.svg": "/StreamVibe/static/media/starIcon.d53f990ac3e83dbc4206c2866f86ade0.svg",
@@ -70,12 +70,12 @@
     "static/media/left-arrow-icon.svg": "/StreamVibe/static/media/left-arrow-icon.da1acfc88397d79ff585cdcdeb99c98a.svg",
     "static/media/right-arrow-icon.svg": "/StreamVibe/static/media/right-arrow-icon.f7ac8090b54d5d1cabc86d65c87e4047.svg",
     "static/media/plusWhite.svg": "/StreamVibe/static/media/plusWhite.d186dc7692f66f61f66b3f07a992954b.svg",
-    "main.f2eb3592.css.map": "/StreamVibe/static/css/main.f2eb3592.css.map",
-    "main.f30f3e7c.js.map": "/StreamVibe/static/js/main.f30f3e7c.js.map",
+    "main.b4185799.css.map": "/StreamVibe/static/css/main.b4185799.css.map",
+    "main.32a6cbd0.js.map": "/StreamVibe/static/js/main.32a6cbd0.js.map",
     "453.9d6f36da.chunk.js.map": "/StreamVibe/static/js/453.9d6f36da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2eb3592.css",
-    "static/js/main.f30f3e7c.js"
+    "static/css/main.b4185799.css",
+    "static/js/main.32a6cbd0.js"
   ]
 }
